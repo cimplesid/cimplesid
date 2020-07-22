@@ -11,3 +11,7 @@ Wanna know more about me:
 - 📫 How to reach me: https://t.me/cimplesid .
 - ⚡ Fun fact: i have youtube channel https://youtube.com/sidtube
 
+<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.</i>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimplesid&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cimplesid&show_icons=true&theme=radical)
