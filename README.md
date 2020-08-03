@@ -1,4 +1,4 @@
-### Hi there  <img src="https://svgshare.com/i/N5q.svg"  > i am Sid
+### Hi there  <img src="https://svgshare.com/i/N5q.svg"  > I am Sid a sofware Engineer from Nepal :triangular_flag_on_post:
 
 
 
@@ -11,7 +11,7 @@ Wanna know more about me:
 - 📫 How to reach me: https://t.me/cimplesid .
 - ⚡ Fun fact: i have youtube channel https://youtube.com/sidtube
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimplesid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimplesid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cimplesid&show_icons=true&theme=radical)
 
