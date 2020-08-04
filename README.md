@@ -1,4 +1,4 @@
-### Hi there  <img src="https://svgshare.com/i/N5q.svg"  > I am Sid a sofware Engineer from Nepal :triangular_flag_on_post:
+### Hi there  <img src="https://svgshare.com/i/N5q.svg"  > I am Sid. A software Engineer from Nepal :triangular_flag_on_post:
 
 
 
