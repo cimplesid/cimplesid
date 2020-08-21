@@ -9,10 +9,12 @@ Wanna know more about me:
 - 📫 How to reach me: https://t.me/cimplesid .
 - ⚡ Fun fact: i have youtube channel https://youtube.com/sidtube
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimplesid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimplesid&layout=compact&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cimplesid&show_icons=true&theme=radical)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cimplesid&show_icons=true&theme=radical)<br><br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=Wifi-jammer-service&theme=radical)](https://github.com/anuraghazra/Wifi-jammer-service)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=learn-flutter-youtube&theme=radical)](https://github.com/cimplesid/learn-flutter-youtube)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [how to make truecaller like overlay over other app in flutter?](https://www.youtube.com/watch?v=59K_2KnHEmg)
