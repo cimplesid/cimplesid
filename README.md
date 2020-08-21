@@ -13,7 +13,7 @@ Wanna know more about me:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cimplesid&show_icons=true&theme=radical)<br><br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=Wifi-jammer-service&theme=radical)](https://github.com/anuraghazra/Wifi-jammer-service)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=Wifi-jammer-service&theme=radical)](https://github.com/cimplesid/Wifi-jammer-service)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=learn-flutter-youtube&theme=radical)](https://github.com/cimplesid/learn-flutter-youtube)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
