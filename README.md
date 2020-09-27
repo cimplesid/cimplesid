@@ -17,9 +17,9 @@ Wanna know more about me:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=learn-flutter-youtube&theme=radical)](https://github.com/cimplesid/learn-flutter-youtube)
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Instagram like Pagination in flutter tutorial](https://www.youtube.com/watch?v=NXnujZ9VfCA)
+- [How to setup multiple versions of flutter  on same device?](https://www.youtube.com/watch?v=cSrrWQMOeqE)
 - [Flutter Global snackbar tutorial](https://www.youtube.com/watch?v=5RBWAbIuqL0)
 - [How to install kali linux 2020.3 in virtual box and full screen ?](https://www.youtube.com/watch?v=8-4t_GwDH_M)
 - [How to capture a photo without opening a camera ?](https://www.youtube.com/watch?v=N4TxuK1eAAQ)
-- [How to Display over other  Apps Flutter ?](https://www.youtube.com/watch?v=59K_2KnHEmg)
-- [Flutter-Particle Js clone](https://www.youtube.com/watch?v=MYLc8O5PviQ)
 <!-- YOUTUBE:END -->
