@@ -1,4 +1,4 @@
-### Hi!! I am Sid. A software Engineer from Nepal :triangular_flag_on_post:
+### Hi!! I am Sid. A Software Engineer from Nepal 
 
 
 Wanna know more about me:
