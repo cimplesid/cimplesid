@@ -10,7 +10,7 @@ Wanna know more about me:
 - ⚡ Fun fact: i have youtube channel https://youtube.com/sidtube
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cimplesid&repo=learn-flutter-youtube&theme=radical)](https://github.com/cimplesid/learn-flutter-youtube)
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Instagram like Pagination in flutter tutorial](https://www.youtube.com/watch?v=NXnujZ9VfCA)
