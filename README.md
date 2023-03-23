@@ -6,7 +6,7 @@ Wanna know more about me:
 - 💻 I'm a Computerphile.
 - 🌱 I’m currently learning everything i can.
 - 👯 I’m looking to collaborate on some cool project or youtube.
-- 📫 How to reach me: https://t.me/cimplesid .
+- 📫 How to reach me: https://t.me/cimplesid or https://www.linkedin.com/in/cimplesid/.
 - ⚡ Fun fact: i have youtube channel https://youtube.com/sidtube
 <br>
 
